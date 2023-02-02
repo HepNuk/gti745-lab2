@@ -1,3 +1,0 @@
-Code Source: https://github.com/HepNuk/gti745-lab2
-Video Demo : https://www.youtube.com/watch?v=AlxSL2G2mO4
-APK : https://github.com/HepNuk/gti745-lab2/blob/main/aaturretapk.apk
